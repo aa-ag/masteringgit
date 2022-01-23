@@ -1,3 +1,3 @@
-# Mastering Git
+# MASTERING GIT
 
-This repo will be used to track progress from "[Mastering Git](https://app.pluralsight.com/library/courses/master-git/table-of-contents)" a class I'm taking via [Pluralsight](https://app.pluralsight.com/library/).
+THIS REPO WILL BE USED TO TRACK PROGRESS FROM "[MASTERING GIT](HTTPS://APP.PLURALSIGHT.COM/LIBRARY/COURSES/MASTER-GIT/TABLE-OF-CONTENTS)" A CLASS I'M TAKING VIA [PLURALSIGHT](HTTPS://APP.PLURALSIGHT.COM/LIBRARY/).
