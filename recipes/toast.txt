@@ -1,2 +1,2 @@
-0 BUTTER
-1 JAM
+0 butter
+1 jam
